@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <servlet>
+        <servlet-name>Test_Servlet</servlet-name>
+        <servlet-class>Servlet.Test_Servlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Esearch1_Servlet</servlet-name>
+        <servlet-class>Servlet.Esearch1_Servlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>MultipleSense_Servlet</servlet-name>
+        <servlet-class>Servlet.MultipleSense_Servlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Test_Servlet</servlet-name>
+        <url-pattern>/test</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Esearch1_Servlet</servlet-name>
+        <url-pattern>/esearch1</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>MultipleSense_Servlet</servlet-name>
+        <url-pattern>/multiple</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+</web-app>

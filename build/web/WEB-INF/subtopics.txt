@@ -1,0 +1,14 @@
+pocono,talladega,thunderhill,martinsvillegingerman,eldora,mosport,mid-ohio,lernerville,raceway,sebring
+climate change,global warming,greenhouse effect,Climate history,carbon finance,climate activity,Climate variability
+cancer,brain tumor,oncology,cancer treatment,cancer research,cancer support,cancer types,neoplasia types,Cancerous tumor,Cancerophobia,Tumour virus,Cancer prevention,Malignant tumor
+AI,Artificial intelligence,AI theories,Robotics,Cybernetics,AI research,pattern recognition,AI ethics,Artificial conciousness,Cognitive Systems,Intelligent machine,Machine Intelligence,Artilect,Commonsense AI,Computational Rationality,Digital Being,Machine understanding,Pseudo intelligence,Simulated intelligence,Subsymbolic
+Autism,asd,autistic spectrum,asperger syndrome,adhd,dyslexia,language impairment,asperger syndrome
+Intelligence,Artilect,Commonsense AI,Computational Rationality,Digital Being,Machine understanding,Pseudo intelligence,Simulated intelligence,Subsymbolic
+Machine learning,pattern recognition,data mining, neural network,supervised learning,transductive learning,feature selection,soft computing, image segmentation,unsupervised clustering
+information retrieval,machine translation,natural language,document retrieval,relevance feedback,query expansion,multimedia retrieval,search engines,indexing,processing nlp
+query expansion,relevance feedback,pseudo relevance,document retrieval,spoken document,cross lingual,query formulation,multimedia retrieval,summarisation,tokenization,named entities recognition
+depression,anxiety,anxiety symptoms,depressive symptoms,anxiety depression,psychological distress,hypochondriasis,symptomatology
+bioinformatics,computational biology,genomics,proteomics,functional genomics,systems biology,functional annotations,genome annotation,pfam 
+semantic web,web services,ontology,services sws,irs iii,semantic interoperability,service oriented,wsmo,interoperable
+virus,type hsv,virus infection,herpes simplex,influenza virus,simian immunodeficiency,vesicular stomatitis,virus hiv
+antarctic exploration,mining prospection,oil resources,rhodium exploration,ozone hole,greenhouse  effect

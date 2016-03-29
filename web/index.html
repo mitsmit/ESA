@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+        <style type="text/css">
+            .center-me {
+            margin: 0 auto;
+        }
+          input
+            {
+            ont-size:19px;
+            padding-left:5px;
+            color: #781351;
+            background:#ffffff;
+            border: 1px solid #e7642c;
+            border: inset 1px solid #333;
+            height:30px;
+            font-weight: bold;
+            border-radius: 5px;
+            }
+
+            label {
+             color: #781351;   
+            font-weight: bold;
+            padding-bottom:10px;
+            }
+            .search_button {
+                border:none;
+                margin: 0;
+                padding: 8px 0 8px 0;
+                background: #e7642c;
+                border-radius: 5px; /* CSS3 support? */
+                -moz-border-radius: 5px;
+                width: 90px;
+                cursor: pointer;
+                color: #fff;
+            }
+            form {
+                
+                height : 100px;
+                margin : 0 auto;
+
+            }
+            
+        </style>
+    </head>
+    <body>
+        
+        <!--
+-->      <form name="f1" method="get" action="./kw">
+            
+            <input type="search" placeholder='Search for documents' name="kw" size="50"/>
+            
+            <input type="submit" class="search_button"  value="Uni-Search">
+             </form>
+        <p><!--
+         
+         <form name="f2" method="post" action="esearch1">
+            
+           In-Query:  <input type="search" name="ekw" size="50">
+            
+            <input type="submit">
+            
+            
+        </form>
+        -->
+        
+            
+        <form name="f3"  method="post" action="multiple">
+            
+            <input type="search" placeholder='Search for documents' name="query"  size="50">
+            <input class="search_button" type="submit" name="command" value="Multi Search" />
+           
+            
+         
+        </form>
+        
+    </body>
+</html>
